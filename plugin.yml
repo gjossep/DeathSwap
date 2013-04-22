@@ -1,0 +1,12 @@
+name: DeathSwap
+author: gjosse
+authors: [gjosse]
+prefix: DeathSwap 
+main: nl.gjosse.DeathSwap
+version: 0.5
+description: The game deathswap!
+commands:
+    deathswap:
+        description: Base commands for the DeathSwap plugin
+        aliases: ['ds']
+        usage: Do /deathswap help
